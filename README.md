@@ -7,7 +7,7 @@ Disclaimer 2: If I wasn't able to credit your/someone else's work please notify 
 
 Note: These courses are from the old curriculum. New curriculum students just refer to the course name.
 
-Important: Please refrain from using my code and submitting it as your own if you are a UP EEEI student, as you might get flagged for code reuse. As much as possible try to use it as a reference, and if it's absolutely necessary please credit me and refer to this repository at the very least!
+**Important**: Please refrain from using my code and submitting it as your own if you are a UP EEEI student, as you might get flagged for code reuse. As much as possible try to use it as a reference, and if it's absolutely necessary please credit me and refer to this repository at the very least!
 
 ### Favorites
 1. [COE 197-Z Deep Learning](https://drive.google.com/drive/folders/1MxIob8XLhhxQi6wBt3cREU6HPR0otUcf?usp=sharing)
