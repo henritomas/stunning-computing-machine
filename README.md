@@ -13,7 +13,6 @@ Important: Please refrain from using my code and submitting it as your own if yo
 1. [COE 197-Z Deep Learning](https://drive.google.com/drive/folders/1MxIob8XLhhxQi6wBt3cREU6HPR0otUcf?usp=sharing)
 2. [COE 135 Operating Systems](https://drive.google.com/drive/folders/1H5tQEGceSTPPpUctUJPU-w8BtMiEy-72?usp=sharing)
 
-[Parent Folder](https://drive.google.com/open?id=12Bw5RXfeCXyhil46N8j9iakIp7T71kLj) for the following:
 ### Has Code, Excercises, Projects
 1. [MATLAB Stuff from EEE 35,107,ECE 141](https://drive.google.com/drive/folders/1kCoqyrwo4JowOEauMuoZVk9-L2k-KPVM?usp=sharing)
 2. [EEE 100 Circuit Prototyping](https://drive.google.com/open?id=1myrL3GiJok-IOVOz7WQfIUPre1Pt8eaa)
